@@ -32,4 +32,4 @@ Built an interactive dashboard using Power BI to generate sales insights. Revenu
 - Delhi market generated highest revenue.
 - Delhi market sold the maximun number of quantity.
 - Top 5 customers are Electricalsara Stores, Electricalslytical, Excel Stores, Premium Stores and Nixon.
-- Top 5 priducts are Blank(no name given), Prod040, Prod159, Prod065 and Prod018.
+- Top 5 products are Blank(no name given), Prod040, Prod159, Prod065 and Prod018.
